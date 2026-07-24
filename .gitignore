@@ -6,10 +6,10 @@ dist/
 
 # Ignore file types
 *.log
-*.sav
+#*.sav
 *.pkl
 
 # Ignore specific files
-.env
+#.env
 .DS_Store
-environment.py
+#environment.py
